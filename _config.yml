@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Sebastián Rodríguez"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/avatar.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Looking for Knowledge."
   location         : "Colombia"
   email            :
