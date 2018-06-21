@@ -271,7 +271,7 @@ defaults:
       related: true
 
   #_pages
-  - score:
+  - scope:
       path: ""
       type: pages
     values:
